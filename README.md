@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://github.com/antunesGustavo">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gu-antunes&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
-  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gu-antunes&layout=compact&langs_count=7&theme=prussian"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gu-antunes&layout=compact&langs_count=7&theme=prussian"/>
 </div>
   
   ##
