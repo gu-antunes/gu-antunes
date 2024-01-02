@@ -17,16 +17,17 @@
 <img src="https://www.brickcontrol.com/wp-content/uploads/2022/05/panel-de-control-usuario-tecnologia.png.webp" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 # Sobre mim 😄
+
 Olá, meu nome é Gustavo de Oliveira Antunes, e é um prazer compartilhar um pouco sobre minha jornada educacional. 
 
 Concluí o curso técnico em Desenvolvimento de Sistemas pela instituição Etec de Guaianases em 2022. Nessa jornada, tive a oportunidade de aprimorar minhas habilidades técnicas e aprofundar meu conhecimento nessa área promissora, que é a tecnologia.
 
 Atualmente, estou matriculado no segundo semestre do curso de Análise de Desenvolvimento de Sistemas na São Paulo Tech School, uma instituição reconhecida por seu compromisso com a excelência acadêmica e tecnológica. Essa jornada educacional tem proporcionado um ambiente estimulante para aprender e aplicar novos conhecimentos no campo da tecnologia da informação.
-
+<br><br><br>
 
 <img src="https://www.brickcontrol.com/wp-content/uploads/2022/07/panel-oscuro.png.webp" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<br> <br><br> <br>
+
 
 # Skills 🚀
 <br> 
