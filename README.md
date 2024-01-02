@@ -1,7 +1,6 @@
  # Olá! Sou o Gustavo de Oliveira Antunes   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="35px">
 • 🎓Técnico em Desenvolvimento de Sistemas - Etec Guaianases <br>
 •📚 Cursando Análise e Desenvolvimento de Sistemas - SPTECH <br>
-•👨‍💻 Back-end <br>
 •📊 Amo Banco de Dados 
 
 <div align="center">
