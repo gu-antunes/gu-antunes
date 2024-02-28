@@ -33,7 +33,7 @@ Atualmente, estou matriculado no segundo semestre do curso de Análise de Desenv
 <br> 
 
   <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql,java,php" />
-  <img src="https://skillicons.dev/icons?i=git,eclipse,vscode,idea,figma,ps"/>
+  <img src="https://skillicons.dev/icons?i=git,vscode,idea,figma,ps"/>
 
 
 
