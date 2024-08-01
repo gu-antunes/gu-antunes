@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=015c8b&height=120&section=header"/>&nbsp;&nbsp;&nbsp;
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=64b3de&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+bem+vindo(a)+!;Me+chamo+Gustavo+de+Oliveira+Antunes;Tenho+18+anos+de+idade)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=64b3de&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+bem+vindo(a)+!;Me+chamo+Gustavo+de+Oliveira+Antunes;Tenho+19+anos+de+idade)](https://git.io/typing-svg)
 
 <div  align="center">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=gu-antunes&theme=tokyonight&mode=weekly" />
